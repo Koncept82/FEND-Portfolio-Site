@@ -1,0 +1,43 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+}
+
+#logo {
+    margin-top: 20px;
+    height: 100px;
+    width: 100px;
+}
+
+#name {
+    font-size: 55px;
+    font-weight: 100;
+}
+
+#subhead {
+    font-size: medium;
+    margin-top: 10px;
+}
+
+hr {
+    border-top: 5px solid #7d97ad;
+}
+
+.secthead {
+    color: #8a9dad;
+}
+
+.portfolio-img {
+    width: 555px;
+}
+
+.port-item {
+    text-align: center;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-content: stretch;
+}
+
+
